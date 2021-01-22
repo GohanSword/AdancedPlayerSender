@@ -1,0 +1,5 @@
+name: AdvancedPlayerSend
+version: ${project.version}
+main: fr.gohansword.advancedplayersend.AdvancedPlayerSend
+commands:
+  GFind:
